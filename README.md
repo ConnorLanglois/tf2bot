@@ -1,4 +1,4 @@
-# TF2Bot
+# Tf2bot
 
 A triggerbot that automatically fires when an enemy crosses the crosshair in TF2.
 
