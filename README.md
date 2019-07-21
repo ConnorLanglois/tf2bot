@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the main cheat table:
 
-	```
-	src/TF2Bot_src.CT
-	```
+```
+src/TF2Bot_src.CT
+```
 
 ## Authors
 
