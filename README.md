@@ -21,7 +21,7 @@ Clone the repo.
 Open the main cheat table:
 
 ```
-src/TF2Bot_src.CT
+src/TF2bot_src.CT
 ```
 
 ## Authors
